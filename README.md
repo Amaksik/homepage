@@ -19,7 +19,7 @@ a litle mix of
 
 - [ ] Entity Framework
 - [ ] Docker
-- [ ] Pdychology
+- [ ] Psychology
 
 ## Hobbies
 
